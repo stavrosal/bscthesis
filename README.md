@@ -1,6 +1,6 @@
 # Bachelor's Thesis – Crossover Experiment
 
-This repository contains the code used in the crossover experiment conducted as part of my Bachelor's thesis named "Evaluating the influence of Generative AIs on Software Quality: A Cross-over Experiment"
+This repository contains the code used in the crossover experiment conducted as part of my Bachelor's thesis named "Evaluating the influence of Generative AIs on Software Quality: A Controlled Cross-over Experiment"
 
 ## Contents
 
