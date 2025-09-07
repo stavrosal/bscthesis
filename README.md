@@ -9,7 +9,7 @@ This repository contains the code used in the crossover experiment conducted as 
 
 ## Dataset
 
-The dataset includes responses collected during the experiment. All data has been anonymized to ensure privacy and compliance with ethical research standards.
+The dataset includes responses collected during the experiment, along with the scores that result as the average of the scores of the 2 examiners, rounded up. All data has been anonymized to ensure privacy and compliance with ethical research standards.
 
 ## Thesis Access
 
