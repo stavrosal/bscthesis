@@ -13,4 +13,5 @@ The dataset includes responses collected during the experiment, along with the s
 
 ## Thesis Access
 
-For more information about the study, you can read the full thesis on the University of Macedonia's PSEPHEDA repository (Offered in Greek only).
+For more information about the study, you can read the full thesis on the University of Macedonia's PSEPHEDA repository [here](https://dspace.lib.uom.gr/handle/2159/33742) (Thesis in Greek - Presentation in English).
+
