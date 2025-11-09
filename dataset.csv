@@ -3,7 +3,7 @@ P01,human,DP_AF1,7,8,10,0,0
 P05,human,DP_AF1,7,8,7,0,8
 P10,human,DP_AF1,7,8,2,2,0
 P04,human,DP_AF1,3,0,10,6,8
-P09,human,DP_AF1,C,0,0,0,0
+P09,human,DP_AF1,0,0,0,0,0
 P02,GenAI,DP_AF2,5,3,10,10,10
 P03,GenAI,DP_AF2,9,10,8,10,9
 P06,GenAI,DP_AF2,5,3,3,7,5
